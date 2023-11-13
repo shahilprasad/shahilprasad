@@ -5,10 +5,12 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 ---
 
 - 🔭 I’m currently working on:
-    - API webserver project
+    - MERN full stack web application
+    - Mini game
 -  🌱 Projects in the planning:
-    - MERN full stack web application.
-- 🤔 Keen on learning: Next.js, React, and MongoDB.
+    - API webserver project
+    - Updated portfolio
+- 🤔 Keen on learning: Next.js, React, and MongoDB
 
 ---
 
