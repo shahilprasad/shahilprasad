@@ -12,5 +12,5 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 
 ---
 
-- 📫 How to reach me: <shahilpdev@gmail.com>
+- 📫 How to reach me: <shahil.prasad@outlook.com>
 - ⚡ Let's connect: [LinkedIn](https://www.linkedin.com/in/shahilprasad/)
