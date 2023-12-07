@@ -6,8 +6,9 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 
 - 🔭 I’m currently working on:
     - API webserver project
+    - Cloud Resume Challenge
 -  🌱 Projects in the planning:
-    - API webserver project
+    - Full Stack Web App
 - 🤔 Keen on learning: Next.js, React, and MongoDB
 
 ---
