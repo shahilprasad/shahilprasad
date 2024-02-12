@@ -8,7 +8,6 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
     - Cloud Resume Challenge
 -  🌱 Projects in the planning:
     - Full Stack Web App
-- 🤔 Keen on learning: Next.js, React, and MongoDB
 
 ---
 
