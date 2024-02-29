@@ -6,7 +6,7 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 
 - 🔭 I’m currently working on:
     - Cloud Resume Challenge
-    - Full Stack Web App - QueueMate
+    - Full Stack Web App - DocWait
 -  🌱 Projects in the planning:
     - 75 Hard 
 
