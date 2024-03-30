@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 ---
 
 - 🔭 I’m currently working on:
-    - Cloud Resume Challenge
+    - React Native Mobile App
 -  🌱 Projects in the planning:
     - 75 Hard 
 
