@@ -5,8 +5,9 @@ I'm a Full Stack Developer with a passion for building responsive and user-centr
 ---
 
 - 🔭 I’m currently working on:
-    - React Native Mobile App
+    - Weather App - React Native
 -  🌱 Projects in the planning:
+    - DocWait - React Native    
     - 75 Hard 
 
 ---
