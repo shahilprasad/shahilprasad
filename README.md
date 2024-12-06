@@ -1,15 +1,20 @@
 ## Hi there, I'm Shahil 👋
 
-I'm a Full Stack Developer with a passion for building responsive and user-centric applications. I am eager to apply my knowledge of front-end and back-end development to solve complex problems and create seamless user experiences. Committed to lifelong learning and staying at the forefront of technology trends.  
+Transitioning nurse to tech professional with a focus on Cybersecurity and Cloud Computing. 
+
+Currently an undergraduate at the University of Technology Sydney (UTS), studying a Bachelor of Information Technology with Networking and Cybersecurity majors.
+
+Expertise in full-stack development, underscored by a strong foundation in cybersecurity. Proven ability to navigate high-pressure situations, ensuring meticulous attention to detail and protocol adherence. Adept at problem-solving and delivering customer-centric solutions.
 
 ---
 
-- 🔭 I’m currently working on:
-    - Weather App - React Native
-    - Eduction Platform 
--  🌱 Projects in the planning:
-    - DocWait - React Native    
-    - 75 Hard 
+- 🔭 Certificates I'm currently working towards:
+    - AZ-104: Azure Administrator Associate
+    - AI:900 Azure AI Fundamentals
+      
+-  🌱 Certificates in the planning:
+    - ISC2 CC: Certified in Cybersecurity   
+    - CompTIA Security+ (Plus)
 
 ---
 
