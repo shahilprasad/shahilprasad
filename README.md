@@ -1,19 +1,26 @@
 ## Hi there, I'm Shahil 👋
 
-Transitioning nurse to tech professional with a focus on Cybersecurity and Cloud Computing. 
+Driven by a passion for securing the digital world, I am a transitioning nurse leveraging my healthcare background into the dynamic realm of cloud and cybersecurity. 
 
-Currently an undergraduate at the University of Technology Sydney (UTS), studying a Bachelor of Information Technology with Networking and Cybersecurity majors.
+With hands-on experience in full-stack development and currently pursuing a Bachelor of Information Technology (Networking and Cybersecurity Major), I bring a unique blend of precision, problem-solving, and technical acumen to the tech industry. My certifications whilst being an undergraduate demonstrate my commitment to continuous growth and learning. 
 
-Expertise in full-stack development, underscored by a strong foundation in cybersecurity. Proven ability to navigate high-pressure situations, ensuring meticulous attention to detail and protocol adherence. Adept at problem-solving and delivering customer-centric solutions.
+I'm adept at delivering customer-centric solutions, ensuring meticulous attention to detail and protocol, honed from my experience in healthcare. I'm eager to apply my adaptability and drive in the dynamic world of technology to build secure and innovative cloud solutions.
 
 ---
 
+- 🎉  Certificates I've completed:
+    - AZ-900: Azure Fundamental
+    - AI-900: Azure AI Fundamentals
+    - SC-900: Security, Compliance, and Identity Fundamentals
+    - ISC2 CC: Certified in Cybersecurity
+    - Google Cybersecurity Certificate
+    - GitHub Foundations Certificate
+      
 - 🔭 Certificates I'm currently working towards:
     - AZ-104: Azure Administrator Associate
-    - AI:900 Azure AI Fundamentals
-      
+ 
 -  🌱 Certificates in the planning:
-    - ISC2 CC: Certified in Cybersecurity   
+    - Cisco CCNA  
     - CompTIA Security+ (Plus)
 
 ---
