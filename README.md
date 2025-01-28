@@ -17,11 +17,11 @@ I'm adept at delivering customer-centric solutions, ensuring meticulous attentio
     - GitHub Foundations Certificate
       
 - 🔭 Certificates I'm currently working towards:
+    - CompTIA Security+ (Plus)
     - AZ-104: Azure Administrator Associate
  
--  🌱 Certificates in the planning:
+-  🌱 Certificates on the way:
     - Cisco CCNA  
-    - CompTIA Security+ (Plus)
 
 ---
 
