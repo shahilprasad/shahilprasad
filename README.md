@@ -1,14 +1,16 @@
 ## Hi there, I'm Shahil 👋
 
-Driven by a passion for securing the digital world, I am a transitioning nurse leveraging my healthcare background into the dynamic realm of cloud and cybersecurity. 
+Driven by a passion for technology and cybersecurity, I am a proactive professional with hands-on experience in full-stack development, networking, and cloud security solutions. My journey has been shaped by practical engagements, including a Network Engineer internship at Cisco and collaborative software projects, where I’ve honed my analytical thinking, technical expertise, and problem-solving skills.
 
-With hands-on experience in full-stack development and currently pursuing a Bachelor of Information Technology (Networking and Cybersecurity Major), I bring a unique blend of precision, problem-solving, and technical acumen to the tech industry. My certifications whilst being an undergraduate demonstrate my commitment to continuous growth and learning. 
+With a strong foundation in networking principles, I have contributed to designing and supporting enterprise-grade solutions. My experience also includes developing innovative features for student management systems, optimising processes, and delivering exceptional customer-focused outcomes.
 
-I'm adept at delivering customer-centric solutions, ensuring meticulous attention to detail and protocol, honed from my experience in healthcare. I'm eager to apply my adaptability and drive in the dynamic world of technology to build secure and innovative cloud solutions.
+Eager to continue building, monitoring, and securing cutting-edge cloud, cyber security and AI solutions, I’m committed to leveraging my certifications and skills to make a tangible impact in the tech industry.
 
 ---
 
 - 🎉  Certificates I've completed:
+    - CompTIA Security+ (Plus)
+    - CCNA Cybersecurity
     - AZ-900: Azure Fundamental
     - AI-900: Azure AI Fundamentals
     - SC-900: Security, Compliance, and Identity Fundamentals
@@ -17,13 +19,14 @@ I'm adept at delivering customer-centric solutions, ensuring meticulous attentio
     - GitHub Foundations Certificate
       
 - 🔭 Certificates I'm currently working towards:
-    - CompTIA Security+ (Plus)
+    - CCNP Cybersecurity
     - AZ-104: Azure Administrator Associate
  
 -  🌱 Certificates on the way:
-    - Cisco CCNA  
+    - SC-200: Security Operations Analyst Associate
+    - SC-300: Identity and Access Administrator Associate
 
 ---
 
-- 📫 How to reach me: <shahil.prasad@outlook.com>
+- 📫 How to reach me: <sp.shahilprasad@gmail.com>
 - ⚡ Let's connect: [LinkedIn](https://www.linkedin.com/in/shahilprasad/)
