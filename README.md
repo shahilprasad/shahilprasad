@@ -10,7 +10,7 @@ Eager to continue building, monitoring, and securing cutting-edge cloud, cyber s
 
 - 🎉  Certificates I've completed:
     - CompTIA Security+ (Plus)
-    - CCNA Cybersecurity
+    - Cisco CCNA
     - AZ-900: Azure Fundamental
     - AI-900: Azure AI Fundamentals
     - SC-900: Security, Compliance, and Identity Fundamentals
@@ -19,7 +19,6 @@ Eager to continue building, monitoring, and securing cutting-edge cloud, cyber s
     - GitHub Foundations Certificate
       
 - 🔭 Certificates I'm currently working towards:
-    - CCNP Cybersecurity
     - AZ-104: Azure Administrator Associate
  
 -  🌱 Certificates on the way:
