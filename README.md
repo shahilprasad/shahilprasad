@@ -8,9 +8,16 @@ Eager to continue building, monitoring, and securing cutting-edge cloud, cyber s
 
 ---
 
+- 🎓  I've graduated in:
+    - Diploma of Nursing
+    - Diploma of Information Technology
+    - Bachelor of Information Technology
+
+- 📚  I'm currently studying:
+    - Master of Artificial Intelligence
+
 - 🎉  Certificates I've completed:
     - CompTIA Security+ (Plus)
-    - Cisco CCNA
     - AZ-900: Azure Fundamental
     - AI-900: Azure AI Fundamentals
     - SC-900: Security, Compliance, and Identity Fundamentals
@@ -19,11 +26,7 @@ Eager to continue building, monitoring, and securing cutting-edge cloud, cyber s
     - GitHub Foundations Certificate
       
 - 🔭 Certificates I'm currently working towards:
-    - AZ-104: Azure Administrator Associate
- 
--  🌱 Certificates on the way:
-    - SC-200: Security Operations Analyst Associate
-    - SC-300: Identity and Access Administrator Associate
+    - AI-300: Machine Learning Operations Engineer Associate
 
 ---
 
