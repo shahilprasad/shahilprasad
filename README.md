@@ -26,7 +26,7 @@ Eager to continue building, monitoring, and securing cutting-edge cloud, cyber s
     - GitHub Foundations Certificate
       
 - 🔭 Certificates I'm currently working towards:
-    - AI-300: Machine Learning Operations Engineer Associate
+    - AI-901: Microsoft Azure AI Fundamentals
 
 ---
 
