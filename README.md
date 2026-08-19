@@ -1,34 +1,22 @@
-## Hi there, I'm Shahil 👋
+## Hi, I'm Shahil 👋
 
-Driven by a passion for technology and cybersecurity, I am a proactive professional with hands-on experience in full-stack development, networking, and cloud security solutions. My journey has been shaped by practical engagements, including a Network Engineer internship at Cisco and collaborative software projects, where I’ve honed my analytical thinking, technical expertise, and problem-solving skills.
-
-With a strong foundation in networking principles, I have contributed to designing and supporting enterprise-grade solutions. My experience also includes developing innovative features for student management systems, optimising processes, and delivering exceptional customer-focused outcomes.
-
-Eager to continue building, monitoring, and securing cutting-edge cloud, cyber security and AI solutions, I’m committed to leveraging my certifications and skills to make a tangible impact in the tech industry.
+I'm a Forward Deployed Engineer at **Heidi**, an **AFR Top 100 Future Leader**, and a Master of AI student at La Trobe University.
+With a background spanning clinical nursing, network engineering, and cybersecurity, I focus on building reliable AI systems, cloud infrastructure, and modern web applications that hold up in high-stakes environments.
 
 ---
 
-- 🎓  I've graduated in:
-    - Diploma of Nursing
-    - Diploma of Information Technology
-    - Bachelor of Information Technology
+### 🎓 Education
+- **Master of Artificial Intelligence** — La Trobe University *(In progress)*
+- **Bachelor of Information Technology** (Networking & Cybersecurity Major)
+- **Diploma of Nursing** & **Diploma of Information Technology**
 
-- 📚  I'm currently studying:
-    - Master of Artificial Intelligence
-
-- 🎉  Certificates I've completed:
-    - CompTIA Security+ (Plus)
-    - AZ-900: Azure Fundamental
-    - AI-900: Azure AI Fundamentals
-    - SC-900: Security, Compliance, and Identity Fundamentals
-    - ISC2 CC: Certified in Cybersecurity
-    - Google Cybersecurity Certificate
-    - GitHub Foundations Certificate
-      
-- 🔭 Certificates I'm currently working towards:
-    - AI-901: Microsoft Azure AI Fundamentals
+### 📜 Certifications
+- **Security & Infrastructure**: CompTIA Security+, ISC2 Certified in Cybersecurity (CC), Cisco CCEH, Qualys Vulnerability Management
+- **Cloud & AI**: Microsoft Certified Azure Fundamentals (AZ-900), Azure AI Fundamentals (AI-900), Security & Compliance (SC-900), Google Cybersecurity, GitHub Foundations
 
 ---
 
-- 📫 How to reach me: <sp.shahilprasad@gmail.com>
-- ⚡ Let's connect: [LinkedIn](https://www.linkedin.com/in/shahilprasad/)
+### 📬 Connect
+- **Portfolio**: [shahilprasad.github.io/personal-portfolio](https://shahilprasad.github.io/personal-portfolio/)
+- **LinkedIn**: [linkedin.com/in/shahilprasad](https://www.linkedin.com/in/shahilprasad/)
+- **Email**: [sp.shahilprasad@gmail.com](mailto:sp.shahilprasad@gmail.com)
