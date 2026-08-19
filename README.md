@@ -17,6 +17,6 @@ With a background spanning clinical nursing, network engineering, and cybersecur
 ---
 
 ### 📬 Connect
-- **Portfolio**: [shahilprasad.github.io/personal-portfolio](https://shahilprasad.github.io/personal-portfolio/)
+- **Portfolio**: [shahilprasad.github.io/personal-portfolio](https://shahilprasad.github.io/me/)
 - **LinkedIn**: [linkedin.com/in/shahilprasad](https://www.linkedin.com/in/shahilprasad/)
 - **Email**: [sp.shahilprasad@gmail.com](mailto:sp.shahilprasad@gmail.com)
