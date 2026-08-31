@@ -6,7 +6,7 @@ With a background spanning clinical nursing, network engineering, and cybersecur
 ---
 
 ### 🎓 Education
-- **Master of Artificial Intelligence** — La Trobe University *(In progress)*
+- **Master of Artificial Intelligence** *(In progress)*
 - **Bachelor of Information Technology** (Networking & Cybersecurity Major)
 - **Diploma of Nursing** & **Diploma of Information Technology**
 
